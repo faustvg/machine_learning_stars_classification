@@ -13,6 +13,9 @@ This project focuses on classifying stars as dwarfs or giants using machine lear
 # Techniques Used
 
   Exploratory Data Analysis (EDA): Both univariate and multivariate analysis were conducted to understand the data.
+  
   Feature Engineering: Techniques such as standardization and SelectKBest were applied to optimize the feature set.
+  
   Model Selection: Grid Search,Paramater Grid and Pipeline were utilized to identify the best-performing models.
+  
   Cross-Validation: Employed to ensure the robustness and reliability of the models.
