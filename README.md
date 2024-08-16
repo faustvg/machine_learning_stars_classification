@@ -8,6 +8,7 @@ This project focuses on classifying stars as dwarfs or giants using machine lear
 # Goals
 
   Classification: How well can a model distinguish between Giant and Dwarf stars?
+  
   Feature Importance: Which attributes are most critical in this classification?
 
 # Techniques Used
